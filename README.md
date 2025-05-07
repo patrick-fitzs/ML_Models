@@ -45,3 +45,8 @@ Introduces regression models to explore relationships and make predictions:
 - Great for when data doesn't follow a straight line pattern
 
 ---
+
+### `ScaleFeatures.py` — *Scaling features*
+Demonstrating Scaling data into new values and the importance of doing so.
+
+- Uses `StandardScaler()` to scale data using the standardisation formula. Z = x - u / s
