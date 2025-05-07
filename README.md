@@ -1,7 +1,9 @@
 # 📘 Basic Maths & Statistics for Machine Learning (Beginner-Friendly)
 
 This project introduces fundamental mathematical and statistical concepts commonly used in Machine Learning, with on going Python examples and visualisations. It's perfect for beginners looking to build a strong foundation before diving into ML models.
+
 This approach is quite direct and simplistic, which I feel is a great way to grasp these concepts. This is as opposed to the lengthy and overcomplicated explanations you'll find out there!
+
 ---
 
 ## 📂 Files Included
