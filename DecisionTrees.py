@@ -3,7 +3,7 @@
 Decision Trees.
 ####################################################################################################
 """
-# We have a data set called DT data represents every time there was a comedy show in town and some information about the comedian,
+# We have a data set which is called DT data represents every time there was a comedy show in town and some information about the comedian,
 # along with whether they went or not.
 import pandas
 from pyexpat import features
