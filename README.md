@@ -50,3 +50,12 @@ Introduces regression models to explore relationships and make predictions:
 Demonstrating Scaling data into new values and the importance of doing so.
 
 - Uses `StandardScaler()` to scale data using the standardisation formula. Z = x - u / s
+
+---
+
+### `KNN.py` — *K Nearest Neighbors*
+- Uses `KNeighborsClassifier` to classify customer types from telecom data  
+- Scales features using `StandardScaler()` for fair distance comparison  
+- Evaluates accuracy for values of **k from 1 to 100**  
+- Plots model accuracy and standard deviation to find the optimal `k`
+- Predicts the majority vote of the k nearest training points
