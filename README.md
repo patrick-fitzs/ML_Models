@@ -59,3 +59,13 @@ Demonstrating Scaling data into new values and the importance of doing so.
 - Evaluates accuracy for values of **k from 1 to 100**  
 - Plots model accuracy and standard deviation to find the optimal `k`
 - Predicts the majority vote of the k nearest training points
+
+---
+
+### `SVM.py` — *Support Vector Machine*
+-
+
+---
+
+### `RandomForest_VS_XGBoost.py` — *Random Forest vs XGBoost*
+
