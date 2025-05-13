@@ -59,3 +59,9 @@ fig.update_layout(coloraxis_showscale=False, width=1000, height=800, scene=dict(
     ))  # Remove color bar, resize plot
 
 fig.show()
+
+
+# from the 3d plot we can see that are 3 clusters
+# - Late career, affluent and educated.
+# - Mid career, middle income
+# - Early career and los imcome
