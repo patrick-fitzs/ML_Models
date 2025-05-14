@@ -3,6 +3,11 @@
 Decision Trees.
 ####################################################################################################
 """
+
+# DTs make predictions by following a tree like structure where each internal node asks a
+# question about a feature and each leaf node provides a prediction or value. Classification and regression
+
+
 # We have a data set which is called DT data represents every time there was a comedy show in town and some information about the comedian,
 # along with whether they went or not.
 import pandas

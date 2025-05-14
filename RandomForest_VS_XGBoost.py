@@ -5,6 +5,15 @@ Here we'll look at the relative performances of Random Forest and XGBoost regres
 We will use them to predict house prices using the California Housing Dataset.
 
 """
+
+'''
+Random Forest is an ensemble of  decision trees trained on bootstrapped subsets of data. Each tree gives 
+a prediction and an average is taken.
+
+XGBoost (extreme gradient boosting) builds trees one after the other, learning from the previous ones errors 
+'''
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
