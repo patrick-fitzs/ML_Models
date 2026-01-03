@@ -1,3 +1,7 @@
 # Large data files
 *.csv
 DataSets/
+
+.idea/
+DataSets/*.csv
+*.ipynb
