@@ -5,3 +5,5 @@ DataSets/
 .idea/
 DataSets/*.csv
 *.ipynb
+
+SVM_github_compatible.ipynb
